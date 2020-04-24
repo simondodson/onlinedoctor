@@ -3,8 +3,11 @@ title: "Simple Online Doctor "
 home_style: style6
 home_img: /images/screenshot_2020-04-25-simple-online-doctor.png
 excerpt: This is an online doctor service as well as an online pharmacy.
-date: 2017-04-02
+date: 2017-04-02T00:00:00.000Z
 img_src: /images/screenshot_2020-04-25-simple-online-doctor.png
+menus:
+  main:
+    title: "Simple Online Doctor "
 template: page
 ---
 This is an online doctor service as well as an online pharmacy. This means that you can get a consultation and also have your prescription filled out by the same provider. Simple Online Doctor offers general consultations on common issues such as sexual health and offering doctors certificates, but is also employs psychologists who can handle your mental health concerns. Some of its popular clinics and consultations include those on the contraceptive pill and chlamydia treatment, and this demonstrates how discreet the service is for its users.
