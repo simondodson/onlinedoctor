@@ -1,10 +1,11 @@
 ---
 title: https://www.instantconsult.com.au/
 home_style: style5
-home_img: images/pic05.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-date: 2017-04-08
-img_src: images/pic13.jpg
+home_img: /images/screenshot_2020-04-25-online-doctor-appointments-online-doctor-chat-dr-online.jpg
+excerpt: Instantconsult offers consultations through highly qualified and
+  registered doctors via video call anywhere in Australia.
+date: 2020-04-07T17:00:00.000Z
+img_src: /images/screenshot_2020-04-25-online-doctor-appointments-online-doctor-chat-dr-online.jpg
 template: page
 ---
 
