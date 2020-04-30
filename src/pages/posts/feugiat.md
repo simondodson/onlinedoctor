@@ -3,35 +3,8 @@ title: RACPG
 home_style: style3
 home_img: /images/screenshot_2020-04-26-racgp-the-royal-australian-college-of-general-practitioners.png
 excerpt: The RACGP is the country’s leading general practice organization that
-  represents the interests of GPs from across Australia. It has over 40,000
-  members who are active professionals in various medical facilities. Its main
-  role is to participate in research, training and educational activities that
-  are geared towards ensuring that Australians receive quality care from their
-  GPs. RACGP assesses the member doctors’ skills, develops standards and
-  guidelines that practitioners follow, and guides GPs on issues that occur in
-  their practices.  The organization also offers guidance and programs for local
-  and international medical students who want to become GPs, as well as exam
-  support structures for them. There are also courses and events geared towards
-  GPs who require professional development, and these courses can be online or
-  in regular classes. Education providers additionally receive guidance on
-  industry standards for ensuring that the training that they offer GPs is of
-  the highest quality. In general, this organization helps both practicing and
-  aspiring GPs to keep up to date with developments in the medical
-  field.  Another notable offering from the organization is its advice and
-  guidelines on information security, as this is a critical factor in today’s
-  medical practice. This is because GPs and other physicians have to handle
-  critical patient data safely and confidentially, so it is important for them
-  to understand how such data should be protected.  This organization and its
-  site are different because rather than treating patients, it gives GPs advice
-  on how to treat their patients. This in effect makes RACGP a consultative
-  organization that ensures medical professionals keep up with the expected
-  industry standards and practices while enhancing their patients’ quality of
-  care and safety. RACPG is not an online doctor service but instead it offers
-  guidance on how GPs can work both online and in regular practice in a way that
-  will ensure that their patients receive the best care. Furthermore, the
-  organization provides reports and submissions to various state and private
-  agencies on issues related to health and clinical medicine.
-date: 2017-04-10
+  represents the interests of GPs from across Australia.
+date: 2017-04-10T00:00:00.000Z
 img_src: /images/screenshot_2020-04-26-racgp-the-royal-australian-college-of-general-practitioners.png
 template: page
 ---
