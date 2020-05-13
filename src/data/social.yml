@@ -3,25 +3,25 @@ title: Follow
 follow_section:
   - title: Twitter
     icon: fa-twitter
-    link_url: '#'
+    link_url: https://www.doctoblog.com/
   - title: Facebook
     icon: fa-facebook
-    link_url: '#'
+    link_url: https://www.doctoblog.com/
   - title: Instagram
     icon: fa-instagram
-    link_url: '#'
+    link_url: https://www.doctoblog.com/
   - title: Dribbble
     icon: fa-dribbble
-    link_url: '#'
+    link_url: https://www.doctoblog.com/
   - title: GitHub
     icon: fa-github
-    link_url: '#'
+    link_url: https://www.docto.com.au/
   - title: 500px
     icon: fa-500px
-    link_url: '#'
+    link_url: https://www.docto.com.au/
   - title: Phone
     icon: fa-phone
-    link_url: '#'
+    link_url: "#"
   - title: Email
     icon: fa-envelope-o
-    link_url: '#'
+    link_url: "#"
