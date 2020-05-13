@@ -8,7 +8,28 @@ menus:
     identifier: 24 hour chemist find Directory
 template: page
 ---
-* jhgjghghj
+<!--StartFragment-->
+
+# **24 hour chemist find Directory**
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Working  in the same market as  **TerryWhite Chemmart** which is one of Australia’s leading retail pharmacy networks delivering frontline healthcare. With more than 450 community pharmacies across Australia, we are committed to delivering real chemistry to every community across Australia – ensuring every Australian has easier access to pharmacists and expert health advice every day. And alongside in the same Market Place  provides high-quality, accessible and cost-effective community-based health care services and programs.
+
+<!--StartFragment-->
+
+![online 247 pharmacy](/images/pharmacy-vector-32.png "online 247 pharmacy")
+
+And alongside in the same **Market Place At Star Discount Chemist**, our customers come first. That’s why we have worked hard to bring to you not only a great range of your most trusted products at discount prices, but also superior service and great advice from our extensively trained staff and qualified pharmacists.
+
+We are committed to providing the community with a one stop shop where our customers can not only find a bargain, but also find health care solutions from our staff who genuinely care about our customer’s well being. 
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
 * cessnock florist
 * 24 hour chemist erina
 * bluebird florist cessnock
