@@ -1,1 +1,21 @@
-{}
+{
+  "main": [
+    {
+      "title": "Online Doctor Reviews",
+      "url": "#",
+      "identifier": "Online Doctor Reviews"
+    },
+    {
+      "identifier": "Online Doctor",
+      "title": "Online Doctorr",
+      "url": "#",
+      "weight": 2
+    },
+    {
+      "identifier": "Chemist Pharmacy Directory",
+      "title": "Chemist Pharmacy Directory",
+      "url": "#",
+      "weight": 3
+    }
+  ]
+}
