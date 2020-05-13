@@ -5,6 +5,7 @@ menus:
   main:
     title: 24 hour chemist find Directory
     weight: 3
+    identifier: 24 hour chemist find Directory
 template: page
 ---
 * jhgjghghj
