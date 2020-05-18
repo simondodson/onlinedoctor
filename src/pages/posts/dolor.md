@@ -1,11 +1,11 @@
 ---
 title: Docto.com.au - Best Online Doctor
-home_style: style3
+home_style: style5
 home_img: /images/2020-04-25-07_01_29-microsoft-edge.png
 excerpt: " Australia’s first online hospital. It has medical specialists for all
   conditions who are available 24 hours a day through the web portal, chat,
   voice, and video consultations to help you to solve your medical needs."
-date: 2020-04-21T17:00:00.000Z
+date: 2020-05-17T17:00:00.000Z
 img_src: /images/2020-04-25-07_01_29-microsoft-edge.png
 template: page
 ---
