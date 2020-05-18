@@ -1,6 +1,6 @@
 ---
 title: 13 DOCTOR
-home_style: style4
+home_style: style1
 home_img: /images/indhjgghjex.png
 excerpt: ""
 date: 2020-05-18T00:47:14.651Z
