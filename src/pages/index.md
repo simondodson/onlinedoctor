@@ -7,11 +7,6 @@ menus:
     weight: 1
 template: home
 ---
-![](/images/best-choice.jpg)
-
-```
-
-```
 
 Whether you’re on a check up or for a specialist Online Doctor, or a medical certificate.
 
