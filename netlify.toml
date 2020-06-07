@@ -3,3 +3,4 @@ publish = "public"
 command = "./stackbit-build.sh"
 [[plugins]]
 package = "@netlify/plugin-sitemap"
+package = "netlify-plugin-image-optim"
