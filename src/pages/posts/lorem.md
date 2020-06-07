@@ -4,7 +4,7 @@ home_style: style2
 home_img: /images/screenshot-35-.png
 excerpt: Qoctor is an online service that enables you to get the prescriptions
   that you regularly use without needing to book a doctor’s appointment.
-date: 2017-04-11T00:00:00.000Z
+date: 2017-04-25T00:00:00.000Z
 img_src: /images/screenshot-35-.png
 template: page
 ---
