@@ -7,7 +7,6 @@ menus:
     weight: 1
 template: home
 ---
-
 Whether you’re on a check up or for a specialist Online Doctor, or a medical certificate.
 
 Our team of review experts have used ai and years of editorial methods against every Australian online doctor service to give you the best Online Doctor you deserve.
@@ -17,3 +16,5 @@ Hi! My name’s Simon and I’m the main Online Doctors Editor around these part
 The mission of **Best Online Doctor Review** is simple: we want to help you discover, research, and select the online doctor site and health  products that meets your needs, desires, and budget. 
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!
+
+<a href="https://gyazo.com/d44d7673d6dd3e4cc1caed861bd8df96"><video alt="Video from Gyazo" width="1270" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/d44d7673d6dd3e4cc1caed861bd8df96.mp4" type="video/mp4" /></video></a>
