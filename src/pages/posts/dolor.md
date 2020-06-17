@@ -25,8 +25,11 @@ For its[ 24-hour access services, docto.com.au](docto.com.au) charges new patien
 
 This service is different from other online services because it has a wide range of specialists for all conditions, and this makes it appear more as a conventional hospital than other services. Docto.com.au extensively uses health IT systems to link doctors, patients and specialists, and this ensures that its patients receive the best care through the use of technology. Unlike many online services, the service recommends that a patient’s doctor be involved in the consultation and medical prescription process if and when necessary. If a patient wants someone else present during their consultation such as a family member or spouse, the service allows for this. Furthermore, it requires minors be accompanied by a parent or guardian. 
 
-**Pros and cons  Pros**  •	The service provides 24hr services that can be useful in times of emergencies.  •	Ease of convenience for individuals who are unable to visit a traditional hospital.  •	The wide variety of specialists available means that you can get treatment or a consultation for any condition. 
-•	The service uses secure and encrypted systems to upload and download patient reports and files. 
+**Pros and cons  Pros** 
+
+ •	The service provides 24hr services that can be useful in times of emergencies.  \
+•	Ease of convenience for individuals who are unable to visit a traditional hospital.  \
+•	The wide variety of specialists available means that you can get treatment or a consultation for any condition.  •	The service uses secure and encrypted systems to upload and download patient reports and files. 
 •	Medicare rebates are available for eligible patients. 
 •	The service significantly reduces the amount of time that patients have to wait for an appointment.
 •	It reduces the costs of seeing a specialist in Australia. 
