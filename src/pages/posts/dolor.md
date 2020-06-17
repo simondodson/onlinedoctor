@@ -21,10 +21,11 @@ Furthermore, if a doctor has a patient who requires a specialist but the special
 
 For its[ 24-hour access services, docto.com.au](docto.com.au) charges new patients $77 and returning patients pay $57. To obtain services between 10 p.m. and 6 a.m. (AEST), you will be charged $154. Furthermore, specialist consults are billed separately and range from $250 and above. However, if you are in a remote area of Australia, you will be charged only $35, and this makes the service more affordable for economically disadvantaged individuals in such regions. In addition, there are rebates for patients who are eligible for Medicare, and a gap payment is applicable at a range of between $100 and $150. 
 
+![Australia's Most dedicated, largest and only Online Hospital and Doctors ](/images/screenshot-2020-06-18t061915.708.png "Medical Specialists. ")
+
 This service is different from other online services because it has a wide range of specialists for all conditions, and this makes it appear more as a conventional hospital than other services. Docto.com.au extensively uses health IT systems to link doctors, patients and specialists, and this ensures that its patients receive the best care through the use of technology. Unlike many online services, the service recommends that a patient’s doctor be involved in the consultation and medical prescription process if and when necessary. If a patient wants someone else present during their consultation such as a family member or spouse, the service allows for this. Furthermore, it requires minors be accompanied by a parent or guardian. 
 
-**Pros and cons  Pros**  •	The service provides 24hr services that can be useful in times of emergencies.  •	Ease of convenience for individuals who are unable to visit a traditional hospital. 
-•	The wide variety of specialists available means that you can get treatment or a consultation for any condition. 
+**Pros and cons  Pros**  •	The service provides 24hr services that can be useful in times of emergencies.  •	Ease of convenience for individuals who are unable to visit a traditional hospital.  •	The wide variety of specialists available means that you can get treatment or a consultation for any condition. 
 •	The service uses secure and encrypted systems to upload and download patient reports and files. 
 •	Medicare rebates are available for eligible patients. 
 •	The service significantly reduces the amount of time that patients have to wait for an appointment.
@@ -36,5 +37,4 @@ This service is different from other online services because it has a wide range
 •	The services might appear costly for economically disadvantaged individuals.  •	There is a risk of data loss or theft if a patient does not know how to upload or download files or reports securely via their email links. \
 \
 **Simple The Best Online Doctor** - [docto.com.au](docto.com.au)\
- Score  Ease of use: 100/100  Convenience factor: 100/100
-Technology: 100/100
+ Score  Ease of use: 100/100  Convenience factor: 100/100 Technology: 100/100
