@@ -14,13 +14,15 @@ template: page
 
 <!--EndFragment-->
 
+
+
+
+
 <!--StartFragment-->
 
 Working  in the same market as  **TerryWhite Chemmart** which is one of Australia’s leading retail pharmacy networks delivering frontline healthcare. With more than 450 community pharmacies across Australia, we are committed to delivering real chemistry to every community across Australia – ensuring every Australian has easier access to pharmacists and expert health advice every day. And alongside in the same Market Place  provides high-quality, accessible and cost-effective community-based health care services and programs.
 
 <!--StartFragment-->
-
-
 
 ![online 247 pharmacy](/images/pharmacy-vector-32.png "online 247 pharmacy")
 
