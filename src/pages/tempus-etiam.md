@@ -20,6 +20,8 @@ Working  in the same market as  **TerryWhite Chemmart** which is one of Australi
 
 <!--StartFragment-->
 
+
+
 ![online 247 pharmacy](/images/pharmacy-vector-32.png "online 247 pharmacy")
 
 And alongside in the same **Market Place At Star Discount Chemist**, our customers come first. That’s why we have worked hard to bring to you not only a great range of your most trusted products at discount prices, but also superior service and great advice from our extensively trained staff and qualified pharmacists.
