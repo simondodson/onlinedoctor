@@ -30,7 +30,21 @@ To obtain a medial certificate you might ask the doctor the following
 | Instant Consult[](https://bestonlinedoctors.com.au/posts/instantconsult/) | [Instantconsult.com.au](https://bestonlinedoctors.com.au/posts/instantconsult/)          |
 | [Docto.com.au](<https://docto.com.au >)                                   | [](<https://docto.com.au >)[Docto.com.au](https://bestonlinedoctors.com.au/posts/dolor/) |
 
-[](https://bestonlinedoctors.com.au/posts/dolor/)\
+\
+\
+Other Questions that are always asked are: \
+<!--StartFragment-->
+
+|                                                                |     |
+| -------------------------------------------------------------- | --- |
+| how many sick days can i take without a doctor's certificate   | ?   |
+| how many sick days can you take without a doctor's certificate | ?   |
+| how to get a doctor's certificate when your not sick           | ?   |
+| how to get doctor's certificate                                | ?   |
+| when do you need a doctor's certificate                        | ?   |
+
+\
+<!--EndFragment-->[](https://bestonlinedoctors.com.au/posts/dolor/)\
 EXAMPLES - DOWNLOAD THE 
 
 * **[medical certificate PDF](https://drive.google.com/file/d/1P7Rg3iMC9hfeZ3ydXedJ4gbo_tWqC05_/view?usp=sharing)** 
