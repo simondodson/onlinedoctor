@@ -1,6 +1,11 @@
 ---
 title: Top Online Doctor Certificates
 img_src: /images/captovate-isometric-animation-storyboard-v4-1-.gif
+menus:
+  main:
+    title: Online Doctor Certificates
+    weight: 1
+    identifier: Online Doctor Certificates
 template: page
 ---
 Below is a list of the top and leading businesses based on the leading industry data on 
