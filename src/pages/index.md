@@ -19,4 +19,3 @@ We are constantly updating reviews, doing new tests, and exploring new products 
 
 ![Best Online Doctor](/images/b4590555963187.y3jvccwymtyylde2otisndixlda.png "Best Online Doctor")
 
-[![Image from Gyazo](https://i.gyazo.com/d44d7673d6dd3e4cc1caed861bd8df96.gif)](https://gyazo.com/d44d7673d6dd3e4cc1caed861bd8df96)
