@@ -3,7 +3,7 @@ title: Instantscripts
 home_style: style3
 home_img: /images/hh.png
 date: 2020-05-18T00:43:20.622Z
-img_src: /images/0b4ffc96d6f94a093fd8e46ecc09d6fc-removebg-preview.png
+img_src: /images/hh-4-_1.jpg
 template: page
 ---
 Instantscripts  is an online prescription service that allows users to order for and receive prescriptions from the comfort of their homes. The system works by a user entering the Instascript terminal, selecting the medication they need, answering few questions, and then the doctor emails the prescription to the user’s pharmacist. 
