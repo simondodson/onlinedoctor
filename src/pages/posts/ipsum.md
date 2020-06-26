@@ -1,10 +1,10 @@
 ---
 title: GP2U Telehealth
 home_style: style2
-home_img: /images/screenshot-35-.png
+home_img: /images/screenshot-35-4-.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-date: 2017-04-06
-img_src: /images/screenshot-35-.png
+date: 2017-04-06T00:00:00.000Z
+img_src: /images/screenshot-35-4-_1.jpg
 template: page
 ---
 This service is based on telehealth medicine and is considered innovative in the industry because it acts more like a virtual clinic. As long as you have a smartphone and download the service’s app, you can visit the virtual clinic, book an appointment, and even wait in a virtual waiting room as you wait for the specialist to attend to you. 
