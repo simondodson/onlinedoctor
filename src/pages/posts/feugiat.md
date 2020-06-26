@@ -1,7 +1,7 @@
 ---
 title: RACPG
 home_style: style3
-home_img: /images/screenshot_2020-04-26-racgp-the-royal-australian-college-of-general-practitioners.png
+home_img: /images/screenshot_2020-04-26-racgp-the-royal-australian-college-of-general-practitioners-4-.jpg
 excerpt: The RACGP is the country’s leading general practice organization that
   represents the interests of GPs from across Australia.
 date: 2017-04-10T00:00:00.000Z
@@ -16,7 +16,7 @@ Education providers additionally receive guidance on industry standards for ensu
 \
 **Pros and cons**  \
 \
-Pros 
+**Pros** 
 •	The organization enhances collaboration and teamwork capabilities between practitioners, and this leads to high quality patient care for the GPs in their respective practices.
 •	The organization’s members appear to be passionate about their work. 
 •	RACPG offers practical advice, workshops and seminars for its practitioners to enable them work efficiently and effectively in their practice. 
@@ -26,7 +26,7 @@ Pros
 •	The use of social media tools allows for a wider reach to audiences across the country. 
 •	The organization offers a comprehensive range of contact websites that its members can use to find resources and learn pertinent information concerning the medical industry. 
 
-Cons  •	The site is not particularly applicable to regular patients or individuals unless they are interested in clinical and health issues. 
+**Cons  •**	The site is not particularly applicable to regular patients or individuals unless they are interested in clinical and health issues. 
 Score
 Ease of use: 90/100 
 Convenience factor: 90/100
