@@ -1,7 +1,7 @@
 ---
 title: Doctoroo.com.au
 home_style: style4
-home_img: /images/screenshot_2020-04-26-doctoroo-online-doctor-24-7-doctor-consultation-ndis-provider.png
+home_img: /images/screenshot_2020-04-26-doctoroo-online-doctor-24-7-doctor-consultation-ndis-provider-5-.jpg
 excerpt: Doctoroo is an online medical service that enables you to speak to an
   Australian doctor from any device, any time, and anywhere in the country.
 date: 2019-03-31T17:00:00.000Z
