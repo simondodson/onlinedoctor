@@ -4,7 +4,7 @@ header: "The Only Ultimate Online Doctor Review Destination "
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 0
 template: home
 ---
 Whether you’re on a check up or for a specialist Online Doctor, or a medical certificate.
