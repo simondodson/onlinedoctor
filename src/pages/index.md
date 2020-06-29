@@ -1,6 +1,9 @@
 ---
 title: Home
-header: "The Only Ultimate Online Doctor Review Destination "
+header: >-
+  The Only Ultimate Online Doctor Review Destination 
+
+   ![Best Online Doctor](/images/b4590555963187.y3jvccwymtyylde2otisndixlda.png "Best Online Doctor")
 menus:
   main:
     title: Home
@@ -17,4 +20,3 @@ The mission of **Best Online Doctor Review** is simple: we want to help you disc
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts! 
 
-![Best Online Doctor](/images/b4590555963187.y3jvccwymtyylde2otisndixlda.png "Best Online Doctor")
