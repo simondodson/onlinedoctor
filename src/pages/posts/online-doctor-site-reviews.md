@@ -6,12 +6,15 @@ excerpt: >-
   <!--StartFragment-->
 
 
-  Hello, welcome to Best Online Doctor Review! Founded in 2019, this site is dedicated to bringing you the most comprehensive online doctor information on the web. You’ll find everything from doctor sites reviews to telehealth tips. We want to help you get the best night’s sleep ever!
+  Hello, welcome to Best Online Doctor Review! Founded in 2019, this site is dedicated to bringing you the most comprehensive online doctor information on the web. You’ll find everything from doctor sites reviews to telehealth tips. 
+
+
+  **We want to help you get the telehealth ever!**
 date: 2020-06-24T11:27:18.914Z
 img_src: /images/93c18c55963187.599af3a370f8d.png
 template: page
 ---
-Hello, welcome to Best Online Doctor Review! Founded in 2019, this site is dedicated to bringing you the most comprehensive online doctor information on the web. You’ll find everything from doctor sites reviews to telehealth tips. We want to help you get the best night’s sleep ever!
+Hello, welcome to Best Online Doctor Review! Founded in 2019, this site is dedicated to bringing you the most comprehensive online doctor information on the web. You’ll find everything from doctor sites reviews to telehealth tips. We want to help you get the best telehealth.
 
 Whether you’re on a check up or for a specialist Online Doctor, or a medical certificate,
 
