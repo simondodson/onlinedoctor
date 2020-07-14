@@ -18,4 +18,9 @@ The mission of **Best Online Doctor Review** is simple: we want to help you disc
 
 ![Best Online Doctor Review](/images/ddd.jpg "Best Online Doctor Review")
 
-We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!
+We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
+
+![Online Doctor ](/images/1.gif "Online Doctor ")
+
+\
+If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!
