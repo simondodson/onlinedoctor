@@ -10,7 +10,7 @@ menus:
     title: "Simple Online Doctor "
 template: page
 ---
-This is an online doctor service as well as an online pharmacy. This means that you can get a consultation and also have your prescription filled out by the same provider
+#### This is an online doctor service as well as an online pharmacy. This means that you can get a consultation and also have your prescription filled out by the same provider
 
 . Simple Online Doctor offers general consultations on common issues such as sexual health and offering doctors certificates, but is also employs psychologists who can handle your mental health concerns. Some of its popular clinics and consultations include those on the contraceptive pill and chlamydia treatment, and this demonstrates how discreet the service is for its users.
 
@@ -37,36 +37,41 @@ This means that you can order the prescription and pick it up without embarrassm
 
 **Score**  Ease of use: 70/100  Convenience factor: 80/100 Technology: 50/100\
 \
-More Information:
+
+[![best online doctors ](http://img.youtube.com/vi/s2EfLamHFD8/0.jpg)](http://www.youtube.com/watch?v=s2EfLamHFD8 "simple doctor tips")
+
+### More Information:
 
 ## **Seven Simple Online Doctor Tips**
 
 Best Health Online Tips
 
-1. > Go slow on antibiotics
+1. > **Go slow on antibiotics**
    > consultant physician and author of The Diet Myth
-2. > Check your Vitamin D levels
+2. > **Check your Vitamin D levels**
    > Good Housekeeping GP
-3. > Drink more water
+3. > **Drink more water**
    > dietician and founder of Fresh Nutrition
-4. > Good enough is good enough
+4. > **Good enough is good enough**
    > consultant psychologist
-5. > Find your active self
+5. > **Find your active self**
    > director of research at Alzheimer’s Research UK
-6. > Everything in moderation
+6. > **Everything in moderation**
    > consultant dietician
-7. > Don’t catastrophise
+7. > **Don’t catastrophise**
    > dietician and nutrition consultant
-8. > Cut carbs to keep your weight down
+8. > **Cut carbs to keep your weight down**
    > general surgeon, and diet and fitness coach
-9. > Learn how to rest
+9. > **Learn how to rest**
    > Silentnight’s sleep expert
-10. > Never eat between meals
+10. > **Never eat between meals**
     > consultant bariatric surgeon
-11. > Don’t believe the hype
+11. > **Don’t believe the hype**
     > consultant obstetrician and gynaecologist
-12. > ladies vary your shoes from day to day 
+12. > **ladies vary your shoes from day to day** 
     > Sammy Margo, chartered physiotherapist
+    >
+    > ![simple doctor tips ](/images/unnamed-1-1-.jpg "simple doctor tips ")
 
 ### **Five Simple Doctor Tips to Help Them Help you.**
 
@@ -83,3 +88,5 @@ Best Health Online Tips
 3. Strive for improvement
 4. Be willing to admit you don’t know the answer
 5. Stay organised
+
+   ![Simple Doctor Tips for Online doctors](/images/unnamed-1-2-.jpg "Simple Doctor Tips for Online doctors")
