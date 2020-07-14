@@ -16,7 +16,7 @@ Hi! My name’s Simon and I’m the main Online Doctors Editor around these part
 
 The mission of **Best Online Doctor Review** is simple: we want to help you discover, research, and select the online doctor site and health  products that meets your needs, desires, and budget. 
 
-![Best Online Doctor Review](/images/ddd.jpg "Best Online Doctor Review")
+![Best Online Doctor Review](/images/untitled-3.jpg "Best Online Doctor Review")
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
 
