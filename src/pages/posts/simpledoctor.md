@@ -53,9 +53,8 @@ This means that you can order the prescription and pick it up without embarrassm
 •	Lack of mobile or digital services means that the service is limited. 
 
 **Score**  Ease of use: 70/100  Convenience factor: 80/100 Technology: 50/100\
-\
 
-[![best online doctors ](http://img.youtube.com/vi/s2EfLamHFD8/0.jpg)](http://www.youtube.com/watch?v=s2EfLamHFD8 "simple doctor tips")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2EfLamHFD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### More Information:
 
