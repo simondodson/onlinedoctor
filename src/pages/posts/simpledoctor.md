@@ -22,7 +22,7 @@ template: page
 * Hair Loss
 * Malaria Tablets
 
-# \
+\
 Simple Online Doctor
 
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/-0T2hC7AtzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,7 +37,7 @@ The fees are not included on the site, perhaps in order to maintain the theme of
 
 > Another remarkable difference from other online services is that it offers an online pharmacy, but the packages containing the prescriptions are discreet with no labeling of drug names. Instead, the packages contain only the address label and a return address but no information about the contents of the package. 
 
-This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of. * Simple Online Doctor* offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services.
+This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of.  *Simple Online Doctor* offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services.
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/b1J9IJbUstM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -126,4 +126,3 @@ Best Health Online Tips
 >
 > If treatment is not suitable for you, or if our doctors feel it best to continue to be seen by your regular doctor, a full refund will be issued. - https://www.simpleonlinedoctor.com.au/erectile-dysfunction/viagra/\
 > \
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/JWwvQNgColk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
