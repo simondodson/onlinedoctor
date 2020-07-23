@@ -14,7 +14,7 @@ template: page
 
 . Simple Online Doctor offers general consultations on common issues such as sexual health and offering doctors certificates, but is also employs psychologists who can handle your mental health concerns. Some of its popular clinics and consultations include those on the contraceptive pill and chlamydia treatment, and this demonstrates how discreet the service is for its users.\
 \
-Other Treatments detailed in the site:
+**Other Treatments detailed in the site:**
 
 * Chlamydia Treatment
 * Contraceptive Pill
@@ -54,7 +54,7 @@ This means that you can order the prescription and pick it up without embarrassm
 
 **Score**  Ease of use: 70/100  Convenience factor: 80/100 Technology: 50/100\
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s2EfLamHFD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/s2EfLamHFD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### More Information:
 
@@ -106,3 +106,8 @@ Best Health Online Tips
 5. Stay organised
 
    ![Simple Doctor Tips for Online doctors](/images/unnamed-1-2-.jpg "Simple Doctor Tips for Online doctors")
+
+Simple Online Doctor  Site Reports  - Speed and Compliance
+
+1. [Simple Online Doctor Review ](https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/view?usp=sharing)GTM
+2. [Telehealth resourceful tools. ](https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/view?usp=sharing)
