@@ -33,7 +33,9 @@ However, if you cannot receive your package, it will be sent to your local post 
 
 The service uses credit card services, and a refund takes approximately 2-4 days to reach your card.  Unlike other online doctors, **Simple Online Doctor** does not advertise its charges. \
 \
-The fees are not included on the site, perhaps in order to maintain the theme of discretion that many of its users expect. On the other hand, this could be a deliberate omission so as to customize their fees based on their clients, as the service is clearly oriented towards serving awkward medical conditions that are not difficult to diagnose but which the patients want to get discreet treatment for without seeing a physician in person. Another remarkable difference from other online services is that it offers an online pharmacy, but the packages containing the prescriptions are discreet with no labeling of drug names. Instead, the packages contain only the address label and a return address but no information about the contents of the package. 
+The fees are not included on the site, perhaps in order to maintain the theme of discretion that many of its users expect. On the other hand, this could be a deliberate omission so as to customize their fees based on their clients, as the service is clearly oriented towards serving awkward medical conditions that are not difficult to diagnose but which the patients want to get discreet treatment for without seeing a physician in person. 
+
+> Another remarkable difference from other online services is that it offers an online pharmacy, but the packages containing the prescriptions are discreet with no labeling of drug names. Instead, the packages contain only the address label and a return address but no information about the contents of the package. 
 
 This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of. * Simple Online Doctor* offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services.
 
@@ -56,7 +58,7 @@ Its FAQs section needs to be more comprehensive, and the service made more conve
 •	Postal delivery can be inconveniencing if the patient is busy.\
 •	Lack of mobile or digital services means that the service is limited. 
 
-**Score**  Ease of use: 70/100  Convenience factor: 80/100 Technology: 50/100\
+**Score**  Ease of use: 70/100  Convenience factor: 80/100 Technology: 50/100
 
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/s2EfLamHFD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -79,7 +81,7 @@ Best Health Online Tips
 6. > **Everything in moderation**
    > consultant dietician
 7. > **Don’t catastrophise**
-   > dietician and nutrition consultant
+   > dietitian and nutrition consultant
 8. > **Cut carbs to keep your weight down**
    > general surgeon, and diet and fitness coach
 9. > **Learn how to rest**
@@ -108,10 +110,20 @@ Best Health Online Tips
 3. Strive for improvement
 4. Be willing to admit you don’t know the answer
 5. Stay organised
-
-
 6. [Telehealth resourceful tools. ](https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/view?usp=sharing)\
    \
    [Simple Online Doctor  Site Reports  ](https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/view?usp=sharing)-
 
 <iframe src="https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/preview" width="640" height="480"></iframe>
+
+## Erectile Dysfunction
+
+> ## Viagra Online
+>
+> ### Repeat Script Service
+>
+> You can reorder **your repeat script online in Australia** if you have previously been prescribed this medication by your doctor. After completing an online assessment, a prescription will be issued free of charge and passed to our pharmacy for dispensing, if appropriate.
+>
+> If treatment is not suitable for you, or if our doctors feel it best to continue to be seen by your regular doctor, a full refund will be issued. - https://www.simpleonlinedoctor.com.au/erectile-dysfunction/viagra/\
+> \
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/JWwvQNgColk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
