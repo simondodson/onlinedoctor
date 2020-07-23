@@ -22,11 +22,10 @@ Other Treatments detailed in the site:
 * Hair Loss
 * Malaria Tablets
 
-# \
 \
 Simple Online Doctor
 
-[![Simple Online Doctor](http://img.youtube.com/vi/-0T2hC7AtzM/0.jpg)](http://www.youtube.com/watch?v=-0T2hC7AtzM "Simple Online Doctor")
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/-0T2hC7AtzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  The service offers a free consultation process that is thereafter reviewed by one of the prescribers. Once the prescriber forms a diagnosis, they will issue you with a private prescription if you are eligible. The prescription is thereafter sent by post to your address, and you should receive it within the same day if the order is placed before 10 a.m. during the week, or take 5 business days if you are in a rural area. \
 \
