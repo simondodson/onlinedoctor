@@ -22,7 +22,7 @@ template: page
 * Hair Loss
 * Malaria Tablets
 
-\
+# \
 Simple Online Doctor
 
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/-0T2hC7AtzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,9 +35,11 @@ The service uses credit card services, and a refund takes approximately 2-4 days
 \
 The fees are not included on the site, perhaps in order to maintain the theme of discretion that many of its users expect. On the other hand, this could be a deliberate omission so as to customize their fees based on their clients, as the service is clearly oriented towards serving awkward medical conditions that are not difficult to diagnose but which the patients want to get discreet treatment for without seeing a physician in person. Another remarkable difference from other online services is that it offers an online pharmacy, but the packages containing the prescriptions are discreet with no labeling of drug names. Instead, the packages contain only the address label and a return address but no information about the contents of the package. 
 
+This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of. * Simple Online Doctor* offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services.
+
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/b1J9IJbUstM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of.  Simple Online Doctor offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services. Its FAQs section needs to be more comprehensive, and the service made more convenient for users of all age groups, especially the youth who prefer digital social media tools for communication. 
+Its FAQs section needs to be more comprehensive, and the service made more convenient for users of all age groups, especially the youth who prefer digital social media tools for communication. 
 
 **Pros and cons**  \
 \
