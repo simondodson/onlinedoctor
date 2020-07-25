@@ -1,5 +1,9 @@
 ---
 title: Sitemap
+menus:
+  main:
+    weight: 11
+    title: sitemap
 template: page
 ---
 * <https://bestonlinedoctors.com.au/>
