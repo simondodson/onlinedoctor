@@ -16,12 +16,12 @@ follow_section:
   - title: GitHub
     icon: fa-github
     link_url: https://www.docto.com.au/
-  - title: 500px
+  - title: Sitemap
     icon: fa-500px
-    link_url: https://www.docto.com.au/
+    link_url: https://bestonlinedoctors.com.au/sitemap/
   - title: Phone
     icon: fa-phone
     link_url: "#"
   - title: Email
     icon: fa-envelope-o
-    link_url: "#"
+    link_url: "\tmedia@consistency.com.au"
