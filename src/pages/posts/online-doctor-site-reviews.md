@@ -1,7 +1,7 @@
 ---
 title: Online Doctor Site Reviews
 home_style: style5
-home_img: /images/b4590555963187.y3jvccwymtyylde2otisndixlda.png
+home_img: /images/b4590555963187.y3jvccwymtyylde2otisndixlda.jpg
 excerpt: >-
   <!--StartFragment-->
 
