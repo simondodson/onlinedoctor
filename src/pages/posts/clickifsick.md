@@ -1,7 +1,7 @@
 ---
 title: Clickifsick
 home_style: style2
-home_img: /images/index-6-.jpg
+home_img: /images/index-66-.jpg
 date: 2020-05-18T00:39:54.239Z
 img_src: /images/index-6-_1.jpg
 menus:
