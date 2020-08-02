@@ -1,7 +1,9 @@
 ---
-title: "TERMS "
+title: "TERMS -PRIVACY "
 template: page
 ---
+**PRIVACY TERMS**\
+\
 The mission of Best Online Doctor Review  is simple: we want to help you discover, research, and select the online doctor site  and health  products that meets your needs, desires, and budget. 
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible.
