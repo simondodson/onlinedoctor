@@ -33,6 +33,7 @@ To obtain a medial certificate you might ask the doctor the following
 \
 \
 Other Questions that are always asked are: \
+
 <!--StartFragment-->
 
 |                                                                |     |
@@ -43,8 +44,8 @@ Other Questions that are always asked are: \
 | how to get doctor's certificate                                | ?   |
 | when do you need a doctor's certificate                        | ?   |
 
-\
-<!--EndFragment-->[](https://bestonlinedoctors.com.au/posts/dolor/)\
+https://bestonlinedoctors.com.au
+
 EXAMPLES - DOWNLOAD THE 
 
 * **[medical certificate PDF](https://drive.google.com/file/d/1P7Rg3iMC9hfeZ3ydXedJ4gbo_tWqC05_/view?usp=sharing)** 
