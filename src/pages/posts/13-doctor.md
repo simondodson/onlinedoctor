@@ -2,7 +2,9 @@
 title: 13 DOCTOR
 home_style: style1
 home_img: /images/indhjgghjex.png
-excerpt: ""
+excerpt: "**13 DOCTOR**  provides information on the **telehealth** services
+  offered by the website. 13 DOCTOR is therefore an important website because it
+  provides online medical care"
 date: 2020-05-18T00:47:14.651Z
 img_src: /images/indhjgghjex.png
 template: page
