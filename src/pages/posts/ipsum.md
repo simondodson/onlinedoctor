@@ -1,7 +1,7 @@
 ---
 title: GP2U Telehealth
 home_style: style2
-home_img: /images/screenshot-35-4-.jpg
+home_img: /images/screenshot-35-.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
 date: 2017-04-06T00:00:00.000Z
 img_src: /images/screenshot-35-4-_1.jpg
