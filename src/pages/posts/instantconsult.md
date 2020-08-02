@@ -1,7 +1,7 @@
 ---
 title: instantconsult
 home_style: style1
-home_img: /images/screenshot_2020-04-25-online-doctor-appointments-online-doctor-chat-dr-online.jpg
+home_img: /images/66.jpg
 excerpt: Instantconsult offers consultations through highly qualified and
   registered doctors via video call anywhere in Australia.
 date: 2020-04-07T17:00:00.000Z
