@@ -1,7 +1,7 @@
 ---
 title: "Simple Online Doctor "
 home_style: style5
-home_img: /images/screenshot_2020-04-25-simple-online-doctor.png
+home_img: /images/screenshot_2020-04-25-simple-online-doctor.jpg
 excerpt: This is an online doctor service as well as an online pharmacy.
 date: 2017-04-02T00:00:00.000Z
 img_src: /images/screenshot_2020-04-25-simple-online-doctor.png
