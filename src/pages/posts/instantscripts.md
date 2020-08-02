@@ -1,7 +1,7 @@
 ---
 title: Instantscripts
 home_style: style3
-home_img: /images/hh.png
+home_img: /images/hh.jpg
 date: 2020-05-18T00:43:20.622Z
 img_src: /images/hh-4-_1.jpg
 template: page
