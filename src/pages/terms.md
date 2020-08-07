@@ -8,7 +8,7 @@ Terms and Conditions
 
 Terms of Service ("Terms")
 
-Last updated: September 11, 2014
+
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the goodpizza.com.au website (the "Service") operated by goodpizza.com.au ("us", "we", or "our").
 
