@@ -24,9 +24,9 @@ The service initially offered only medical certificates but quickly realized tha
 >
 > ![https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV](/images/download-8-.png "https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV")
 >
-> ## https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV
+> ## <https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV>
 >
-> ## This means that you do not have direct and quick access to a doctor at all times the way other online services operate. Even though the questionnaire enables you to provide pertinent information as you desire, a physical or virtual doctor would nevertheless have the ability to ask the right questions that can generate a clearer diagnosis.\
+> ## [](https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV)This means that you do not have direct and quick access to a doctor at all times the way other online services operate. Even though the questionnaire enables you to provide pertinent information as you desire, a physical or virtual doctor would nevertheless have the ability to ask the right questions that can generate a clearer diagnosis.
 >
 > \
 > Top Pages Qoctor Service
@@ -45,7 +45,7 @@ The service initially offered only medical certificates but quickly realized tha
 | https://www.qoctor.com.au/chlamydia-treatment/                                                                                                                                             | [buy chlamydia treatment online australia](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml) |
 
 <figure class="video_container">
-<iframe width="100%" height="700px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
 > \
