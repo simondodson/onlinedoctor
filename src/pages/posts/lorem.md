@@ -49,17 +49,18 @@ The service initially offered only medical certificates but quickly realized tha
 <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
-> # Pros and cons \
+> ###### Pros and cons \
+>
 > \
 > Pros  \
 > \
 > •	The service offers convenience for busy individuals who have already had the necessary health checks and confirmed that they are fine. As such, Qoctor offers them flexibility. 
 >
-> •	It offers patient autonomy and choice so that patients do not have to seek out a doctor for something simple, for example contraceptive pills. \
+> •	It offers patient autonomy and choice so that patients do not have to seek out a doctor for something simple, for example contraceptive pills. 
 >
 > •	Patient data is securely encrypted to prevent hacking and theft.
 >
-> \*\*Cons\*\* 
+> **Cons**
 > •	There is no personalized doctor involvement required for an individual to order prescriptions, and this could lead to misdiagnosis. 
 >
 > •	Patient safety is also at risk because the doctors are prescribing medication for a patient that they do not have sufficient or prior information about. 
@@ -70,7 +71,61 @@ The service initially offered only medical certificates but quickly realized tha
 >
 > •	There are limited patient-doctor interactions and this could prevent formation of a meaningful and ongoing relationship to enhance the quality of treatment in the long term. 
 >
-> •	No Medicare rebates are available for this service. 
+> •	No Medicare rebates are available for this service. \
+> \
+> **Top Competitors** 
+
+| Link                       | URL                               |
+| -------------------------- | --------------------------------- |
+| simpleonlinedoctor.com.au  | http://simpleonlinedoctor.com.au  |
+| doctorsondemand.com.au     | http://doctorsondemand.com.au     |
+| instantconsult.com.au      | http://instantconsult.com.au      |
+| fpv.org.au                 | http://fpv.org.au                 |
+| bestonlinedoctors.com.au/  | https://bestonlinedoctors.com.au/ |
+| kinfertility.com.au        | http://kinfertility.com.au        |
+| cooppharmacy.coop          | http://cooppharmacy.coop          |
+| fpt.asn.au                 | http://fpt.asn.au                 |
+| mariestopes.org.au         | http://mariestopes.org.au         |
+| primemedic.com.au          | http://primemedic.com.au          |
+| doctoroo.com.au            | http://doctoroo.com.au            |
+| findapharmacy.com.au       | http://findapharmacy.com.au       |
+| mcnsw.org.au               | http://mcnsw.org.au               |
+| mydr.com.au                | http://mydr.com.au                |
+| clickifsick.com.au         | http://clickifsick.com.au         |
+| docto.com.au               | http://docto.com.au               |
+| employeemanual.com.au      | http://employeemanual.com.au      |
+| fornacemian.com            | http://fornacemian.com            |
+| gp2u.com.au                | http://gp2u.com.au                |
+| healthywa.wa.gov.au        | http://healthywa.wa.gov.au        |
+| inhousepharmacy.vu         | http://inhousepharmacy.vu         |
+| instantscripts.com.au      | http://instantscripts.com.au      |
+| medicines.org.au           | http://medicines.org.au           |
+| nps.org.au                 | http://nps.org.au                 |
+| ozpills.com                | http://ozpills.com                |
+| pbs.gov.au                 | http://pbs.gov.au                 |
+| pharmacydirect.com.au      | http://pharmacydirect.com.au      |
+| smartclinics.com.au        | http://smartclinics.com.au        |
+| superpharmacy.com.au       | http://superpharmacy.com.au       |
+| swiftdoc.com               | http://swiftdoc.com               |
+| taarchitettura.com         | http://taarchitettura.com         |
+| thewomens.org.au           | http://thewomens.org.au           |
+| ama.com.au                 | http://ama.com.au                 |
+| bayer.com.au               | http://bayer.com.au               |
+| bayerresources.com.au      | http://bayerresources.com.au      |
+| chemistwarehouse.com.au    | http://chemistwarehouse.com.au    |
+| drsicknote.com.au          | http://drsicknote.com.au          |
+| guildlink.com.au           | http://guildlink.com.au           |
+| healthlinks.net.au         | http://healthlinks.net.au         |
+| metrorehab.com.au          | http://metrorehab.com.au          |
+| ohsinecservices.org.au     | http://ohsinecservices.org.au     |
+| perthmeds.com              | http://perthmeds.com              |
+| pharmacy777.com.au         | http://pharmacy777.com.au         |
+| pharmacyonline.com.au      | http://pharmacyonline.com.au      |
+| sick-e.com.au              | http://sick-e.com.au              |
+| tga.gov.au                 | http://tga.gov.au                 |
+| workforceguardian.com.au   | http://workforceguardian.com.au   |
+| yourdiscountchemist.com.au | http://yourdiscountchemist.com.au |
+| propeciaaustralia.net      | http://propeciaaustralia.net      |
 
 Scores  Ease of use: 70/100 
 Convenience factor: 90/100
