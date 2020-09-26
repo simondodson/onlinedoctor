@@ -27,7 +27,9 @@ For its 24-hour access services,[ docto.com.au](https://docto.com.au) charges ne
 
 ![Australia's Most dedicated, largest and only Online Hospital and Doctors ](/images/screenshot-2020-06-18t061915.708.png "Medical Specialists. ")
 
-This service is different from other online services because it has a wide range of specialists for all conditions, and this makes it appear more as a conventional hospital than other services. [Docto.com.au](https://www.docto.com.au/) extensively uses health IT systems to link doctors, patients and specialists, and this ensures that its patients receive the best care through the use of technology. Unlike many online services, the service recommends that a patient’s doctor be involved in the consultation and medical prescription process if and when necessary. If a patient wants someone else present during their consultation such as a family member or spouse, the service allows for this. Furthermore, it requires minors be accompanied by a parent or guardian. 
+This service is different from other online services because it has a wide range of specialists for all conditions, and this makes it appear more as a conventional hospital than other services. [Docto.com.au](https://www.docto.com.au/) extensively uses health IT systems to link doctors, patients and specialists, and this ensures that its patients receive the best care through the use of technology. \
+\
+Unlike many online services, the service recommends that a patient’s doctor be involved in the consultation and medical prescription process if and when necessary. If a patient wants someone else present during their consultation such as a family member or spouse, the service allows for this. Furthermore, it requires minors be accompanied by a parent or guardian. 
 
 **Pros and cons  Pros** 
 
