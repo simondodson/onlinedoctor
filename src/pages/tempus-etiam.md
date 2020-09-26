@@ -10,13 +10,9 @@ template: page
 ---
 <!--StartFragment-->
 
-# **24 hour chemist find Directory**
+## **24 hour chemist find Directory**
 
 <!--EndFragment-->
-
-
-
-
 
 <!--StartFragment-->
 
