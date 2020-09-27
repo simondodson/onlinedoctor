@@ -16,6 +16,8 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 
 ### The mission of **Best Online Doctor Review** is  we want to help you discover the best, research, and select the online doctor site and health  products that meets your needs, desires, and budget.
 
+![Best Online Doctor Review](/images/untitled-2.png "Best Online Doctor Review")
+
 \
 **Top 10 Best Online Doctors rated by engagement** - **September 2020**
 
@@ -30,9 +32,7 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 | [](bestonlinedoctors.com.au/posts/instantscripts/)[](https://bestonlinedoctors.com.au/posts/instantscripts/)**GP2U Telehealth - Online Doctor Australia   Reviews**       | [gp2u.com.au/](https://bestonlinedoctors.com.au/posts/ipsum/)                      |
 | [](https://bestonlinedoctors.com.au/posts/ipsum/)[](https://bestonlinedoctors.com.au/posts/ipsum/)**Clickifsick - Online Doctor Australia   Reviews**                     | [clickifsick.com.au/](https://bestonlinedoctors.com.au/posts/clickifsick/)         |
 | [](https://bestonlinedoctors.com.au/posts/clickifsick/)[](https://bestonlinedoctors.com.au/posts/clickifsick/)**Your Doctors Online - Online Doctor   Australia Reviews** | [yourdoctors.online/](https://bestonlinedoctors.com.au/posts/your-doctors-online/) |
-| [](https://bestonlinedoctors.com.au/posts/your-doctors-online/)-----------------------------------------------------------------                                          | \--------------------------------------------------------------------------------  |
-
-![Best Online Doctor Review](/images/untitled-2.png "Best Online Doctor Review")
+| [](https://bestonlinedoctors.com.au/posts/your-doctors-online/)-----------------------------------------------------------------                                          | \-----------------------                                                           |
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
 
