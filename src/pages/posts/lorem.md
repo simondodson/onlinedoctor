@@ -49,10 +49,10 @@ The service initially offered only medical certificates but quickly realized tha
 <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
-> ###### Pros and cons \
+> ###### Pros and cons 
 >
 > \
-> Pros  \
+> **Pros**  \
 > \
 > •	The service offers convenience for busy individuals who have already had the necessary health checks and confirmed that they are fine. As such, Qoctor offers them flexibility. 
 >
@@ -127,8 +127,24 @@ The service initially offered only medical certificates but quickly realized tha
 | yourdiscountchemist.com.au | http://yourdiscountchemist.com.au |
 | propeciaaustralia.net      | http://propeciaaustralia.net      |
 
-Scores  Ease of use: 70/100 
-Convenience factor: 90/100
+\
+\
+Scores  Ease of use: 70/100 \
+
+Convenience factor: 90/100\
+
 Technology: 20/100\
 \
-Total Score 180/300.
+Total Score 180/300.\
+\
+**In The Press** 
+
+*“You’re probably going to end up treating people who might not have seen a doctor otherwise,” she said. “At $20 per consult it’s a very low-cost service from the patient’s perspective.”*
+
+*The key to treating any patient, whether online or in person, is taking a comprehensive history.*
+
+*“Medical wisdom has always said that around 80 per cent of diagnoses can be made based on history alone,” she said.*
+
+*“A well trained doctor recognises a patient that requires a physical exam. It’s about us making sure that the information we get from the patient is comprehensive. As doctors there is always concern about risk \[of misdiagnosis], we deal with it every day. Practising online medicine poses different challenges, but taking good patient history is at the core of good medicine."*
+
+*Dr Boylan said Qoctor’s mission was to work with the Australian Medical Association and GPs to provide an online hub for patients “to get the same treatment that they would inside a clinic”. - [source ](https://www.bodyandsoul.com.au/health/health-news/calling-in-sick-and-getting-away-with-it-now-costs-only-20/news-story/782580284e1dce5d3a6ffb4a403ec21b)*
