@@ -15,15 +15,15 @@ This recommendation likewise includes any person who:\
 \
 are in a partnership that is not mutually virginal * with a person that has lately had a negative HIV examination outcome, as well as likewise be:\
 
-<!--\\[if !supportLists]-->· <!--\\[endif]-->a gay or bisexual guy who has had rectal sex without a prophylactic or that has been diagnosed with an STD in the past 6 months, or\
+<!--\\\[if !supportLists]-->· <!--\\\[endif]-->a gay or bisexual guy who has had rectal sex without a prophylactic or that has been diagnosed with an STD in the past 6 months, or\
 
 is a heterosexual man or lady who does not use prophylactics regularly when making love with a person who goes to considerable danger for HIV infection as well as whose HIV standing is unknown (e.g., a person that injects drugs or a lady that has bisexual male companions).
 
-<!--\\[if !supportLists]-->· <!--\\[endif]-->PrEP is additionally suggested for people that have actually injected medications in the past 6 months as well as shared needles or materials, or who have actually been in drug therapy in the past 6 months.\
+<!--\\\[if !supportLists]-->· <!--\\\[endif]-->PrEP is additionally suggested for people that have actually injected medications in the past 6 months as well as shared needles or materials, or who have actually been in drug therapy in the past 6 months.\
 
-<!--\\[if !supportLineBreakNewLine]-->\
+<!--\\\[if !supportLineBreakNewLine]-->\
 
-<!--\\[endif]-->
+<!--\\\[endif]-->
 
 ![](/images/download-47-.png)
 
@@ -58,36 +58,19 @@ Due to the fact that **PrEP includes taking medication daily** and seeing a heal
 
 ![](/images/download-48-.png)
 
-> <!--StartFragment-->
->
-> ### BACKGROUND:
->
-> Pre-exposure prophylaxis (PrEP) provides a strong preventative benefit to individuals at risk for HIV. While PrEP adherence is highly correlated with its efficacy, adherence rates are variable both across and within persons.
->
-> ### OBJECTIVE:
->
-> The objective of this study was to develop and pilot-test a smartphone-based intervention, known as mSMART, that targets PrEP adherence. mSMART provides contingency management in the form of monetary incentives for daily PrEP adherence based on a real-time adherence assessment using a camera-based medication event-monitoring tool as well as medication reminders, PrEP education, individualized behavioral strategies to address PrEP adherence barriers, and medication adherence feedback.
->
-> ### METHODS:
->
-> This was a 4-week open-label, phase I trial in a community sample of young men who have sex with men already on PrEP (N=10).
->
-> ### RESULTS:
->
-> Although adherence composite scores corresponding to PrEP biomarkers indicated that 90% (9/10) of the sample already had an acceptable baseline adherence in the protective range, by the end of the 4-week period, the scores improved for 30% (3/10) of the sample-adherence did not worsen for any participants. Participants reported mean PrEP adherence rates of 91% via daily entries in mSMART. At the end of the 4-week period, participants indicated acceptable ratings of satisfaction, usability, and willingness to recommend mSMART to others.\
-> \
-> \
-> <!--StartFragment--><iframe width="560" height="315" src="https://www.youtube.com/embed/fCH6DJA7zFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### JMIR Mhealth Uhealth 2018;6(9):e10456
 
 [doi:10.2196/10456](https://doi.org/10.2196/10456)
 
-### KEYWORDS
+
+
+### <iframe src="//www.slideshare.net/slideshow/embed_code/key/suo0zzJyBNFYpU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HIVPhilly/hiv-pre-exposure-prophylaxis" title="HIV Pre Exposure Prophylaxis" target="_blank">HIV Pre Exposure Prophylaxis</a> </strong> from <strong><a href="https://www.slideshare.net/HIVPhilly" target="_blank">Office of HIV Planning</a></strong> </div>
 
 * [HIV](https://mhealth.jmir.org/search/searchResult?field%5B%5D=keyword&criteria%5B%5D=HIV);
 * [preexposure prophylaxis](https://mhealth.jmir.org/search/searchResult?field%5B%5D=keyword&criteria%5B%5D=preexposure%20prophylaxis);
 * [mobile health](https://mhealth.jmir.org/search/searchResult?field%5B%5D=keyword&criteria%5B%5D=mobile%20health)
+
+
 
 ### We also recommend
 
@@ -97,29 +80,20 @@ Due to the fact that **PrEP includes taking medication daily** and seeing a heal
 2. [Empowering With PrEP (E-PrEP), a Peer-Led Social Media–Based Intervention to Facilitate HIV Preexposure Prophylaxis Adoption Among Young Black and Latinx Gay and Bisexual Men: Protocol for a Cluster Randomized Controlled Trial](https://www.researchprotocols.org/2018/8/e11375/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0)
 
    Viraj V Patel et al., JMIR Res Protoc, 2018
-3. [Empowering With PrEP (E-PrEP), a Peer-Led Social Media–Based Intervention to Facilitate HIV Preexposure Prophylaxis Adoption Among Young Black and Latinx Gay and Bisexual Men: Protocol for a Cluster Randomized Controlled Trial](https://www.researchprotocols.org/2018/8/e11375/tweets?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0)
-
-   Viraj V Patel et al., JMIR Res Protoc, 2018
-4. [Testing the Efficacy of a Social Networking Gamification App to Improve Pre-Exposure Prophylaxis Adherence (P3: Prepared, Protected, emPowered): Protocol for a Randomized Controlled Trial](https://www.researchprotocols.org/2018/12/e10448?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0)
-
-   Sara LeGrand et al., JMIR Res Protoc, 2018
-5. [A Pre-Exposure Prophylaxis Adherence Intervention (LifeSteps) for Young Men Who Have Sex With Men: Protocol for a Pilot Randomized Controlled Trial](https://www.researchprotocols.org/2019/1/e10661/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0)
-
-   Katie B Biello et al., JMIR Res Protoc, 2019
-6. [The Potential Cost-Effectiveness of Pre-Exposure Prophylaxis Combined with HIV Vaccines in the United States](http://www.mdpi.com/2076-393X/5/2/13?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Vaccines_TrendMD_1)
+3. [The Potential Cost-Effectiveness of Pre-Exposure Prophylaxis Combined with HIV Vaccines in the United States](http://www.mdpi.com/2076-393X/5/2/13?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Vaccines_TrendMD_1)
 
    Adamson et al., Vaccines, 2017
-7. [Individual Versus Community-Level Risk Compensation Following Preexposure Prophylaxis of HIV](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303930?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Am_J_Public_Health_TrendMD_1)
+4. [Individual Versus Community-Level Risk Compensation Following Preexposure Prophylaxis of HIV](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303930?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Am_J_Public_Health_TrendMD_1)
 
    Am J Public Health
-8. [Effects of potassium supplements on glucose metabolism in African Americans with prediabetes: a pilot trial](https://academic.oup.com/ajcn/article/106/6/1431/4823174?itm_medium=sidebar&itm_content=ajcn&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&utm_campaign=The_American_Journal_of_Clinical_Nutrition_TrendMD_1&utm_source=TrendMD&utm_medium=cpc)
+5. [Effects of potassium supplements on glucose metabolism in African Americans with prediabetes: a pilot trial](https://academic.oup.com/ajcn/article/106/6/1431/4823174?itm_medium=sidebar&itm_content=ajcn&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&utm_campaign=The_American_Journal_of_Clinical_Nutrition_TrendMD_1&utm_source=TrendMD&utm_medium=cpc)
 
    Chatterjee et al., The American Journal of Clinical Nutrition, 2017
-9. [Sequential afatinib and osimertinib in patients with EGFR mutation-positive NSCLC: final analysis of the GioTag study](https://www.futuremedicine.com/doi/10.2217/fon-2020-0740)
+6. [Sequential afatinib and osimertinib in patients with EGFR mutation-positive NSCLC: final analysis of the GioTag study](https://www.futuremedicine.com/doi/10.2217/fon-2020-0740)
 
    MJ Hochmair, et al, Future Oncology, 2020
-10. [A US Policy Perspective on Oral Preexposure Prophylaxis for HIV](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2010.300066?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Am_J_Public_Health_TrendMD_1)
+7. [A US Policy Perspective on Oral Preexposure Prophylaxis for HIV](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2010.300066?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Am_J_Public_Health_TrendMD_1)
 
-    Arleen A. Leibowitz et al., Am J Public Health, 2011
+   Arleen A. Leibowitz et al., Am J Public Health, 2011
 
 <!--EndFragment-->
