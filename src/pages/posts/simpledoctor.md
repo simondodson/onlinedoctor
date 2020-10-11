@@ -51,6 +51,8 @@ The service uses credit card services, and a refund takes approximately 2-4 days
 <!--EndFragment-->
 
  The fees are not included on the site, perhaps in order to maintain the theme of discretion that many of its users expect. On the other hand, this could be a deliberate omission so as to customize their fees based on their clients, as the service is clearly oriented towards serving awkward medical conditions that are not difficult to diagnose but which the patients want to get discreet treatment for without seeing a physician in person. 
+
+
 Another remarkable difference from other online services is that it offers an online pharmacy, but the packages containing the prescriptions are discreet with no labeling of drug names. Instead, the packages contain only the address label and a return address but no information about the contents of the package. 
 This means that you can order the prescription and pick it up without embarrassment if the treatment is for a condition you are ashamed of.  Simple Online Doctor offers critical services, but the limited information on its site could make a potential patient to hesitate in using its services.
 
@@ -93,9 +95,8 @@ Best Health Online Tips
    Stay organised
    Telehealth resourceful tools\
    \
-   \
-   . 
-   Simple Online Doctor  Site Reports  -
+
+   **Simple Online Doctor  Site Reports  -**
 
 <iframe src="https://drive.google.com/file/d/1mT7zi5qCQ7gBvv2p24OIQ454H1kHAv9S/preview" width="640" height="480"></iframe>
 
@@ -104,7 +105,31 @@ Best Health Online Tips
 > REPEAT SCRIPT SERVICE
 > You can reorder your repeat script online in Australia if you have previously been prescribed this medication by your doctor. After completing an online assessment, a prescription will be issued free of charge and passed to our pharmacy for dispensing, if appropriate.
 >
-> If treatment is not suitable for you, or if our doctors feel it best to continue to be seen by your regular doctor, a full refund will be issued.
-> /erectile-dysfunction/viagra/
+> If treatment is not suitable for you, or if our doctors feel it best to continue to be seen by your regular doctor, a full refund will be issued. /erectile-dysfunction/viagra/
 
+
+
+
+
+Wordcloud of <!--StartFragment-->
+
+# [Simple Online Doctor](https://bestonlinedoctors.com.au/posts/simpledoctor/)
+
+<!--EndFragment-->
+
+
+
+
+
+
+
+
+
+<!--StartFragment-->
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=625859679461112914" height="589" width="600" frameborder="0" scrolling="no" ></iframe>
+
+<!--EndFragment-->\
+\
+\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JWwvQNgColk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
