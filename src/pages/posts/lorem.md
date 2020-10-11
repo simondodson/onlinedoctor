@@ -154,12 +154,3 @@ Total Score 180/300.\
 *“A well trained doctor recognises a patient that requires a physical exam. It’s about us making sure that the information we get from the patient is comprehensive. As doctors there is always concern about risk \[of misdiagnosis], we deal with it every day. Practising online medicine poses different challenges, but taking good patient history is at the core of good medicine."*
 
 *Dr Boylan said Qoctor’s mission was to work with the Australian Medical Association and GPs to provide an online hub for patients “to get the same treatment that they would inside a clinic”. - [source ](https://www.bodyandsoul.com.au/health/health-news/calling-in-sick-and-getting-away-with-it-now-costs-only-20/news-story/782580284e1dce5d3a6ffb4a403ec21b)*
-
-
-
-<!--StartFragment-->
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=625859679461113193" height="589" width="600" frameborder="0" scrolling="no" ></iframe>
-
-
-
-<!--EndFragment-->
