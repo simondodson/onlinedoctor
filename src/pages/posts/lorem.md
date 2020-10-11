@@ -18,9 +18,15 @@ The service initially offered only medical certificates but quickly realized tha
 > \
 > The doctor will hereafter ask you a series of questions to check if the medication is appropriate for you, then the prescription is sent to you via Australia post. The cost of a paper prescription is $19.99 for the doctor’s fee including Registered Post delivery services, but Express Post costs an additional $4.99. The same charges also apply to delivery of medication. \
 > \
-> Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health. 
+> Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health. \
+> \
+> Qoctor Word Cloud/
 >
-> **This online service is unlike others in the market because it expects you to make the decisions about your treatment instead of the doctor performing a diagnosis and making an appropriate decision. In as much as it offers patient flexibility and choice, this makes it a tricky service because it may be misused to obtain medication  not unsuitable for the user regarding their circumstance. Furthermore, the service is different because it initially uses a questionnaire to ask medical questions and only sets up a Skype video consultation with a doctor when necessary.** 
+> <a href="https://gyazo.com/788da745c563f854dbdf22313bf11d67"><video alt="Video from Gyazo" width="820" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/788da745c563f854dbdf22313bf11d67.mp4" type="video/mp4" /></video></a>
+>
+> [dataset ahref best pages ](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)
+>
+> [](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)**This online service is unlike others in the market because it expects you to make the decisions about your treatment instead of the doctor performing a diagnosis and making an appropriate decision. In as much as it offers patient flexibility and choice, this makes it a tricky service because it may be misused to obtain medication  not unsuitable for the user regarding their circumstance. Furthermore, the service is different because it initially uses a questionnaire to ask medical questions and only sets up a Skype video consultation with a doctor when necessary.** 
 >
 > ![https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV](/images/download-8-.png "https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV")
 >
@@ -49,7 +55,7 @@ The service initially offered only medical certificates but quickly realized tha
 <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
-> ###### Pros and cons 
+> ###### Pros and cons
 >
 > \
 > **Pros**  \
@@ -148,3 +154,13 @@ Total Score 180/300.\
 *“A well trained doctor recognises a patient that requires a physical exam. It’s about us making sure that the information we get from the patient is comprehensive. As doctors there is always concern about risk \[of misdiagnosis], we deal with it every day. Practising online medicine poses different challenges, but taking good patient history is at the core of good medicine."*
 
 *Dr Boylan said Qoctor’s mission was to work with the Australian Medical Association and GPs to provide an online hub for patients “to get the same treatment that they would inside a clinic”. - [source ](https://www.bodyandsoul.com.au/health/health-news/calling-in-sick-and-getting-away-with-it-now-costs-only-20/news-story/782580284e1dce5d3a6ffb4a403ec21b)*
+
+
+
+<!--StartFragment-->
+
+`<iframe src="https://assets.pinterest.com/ext/embed.html?id=625859679461113193" height="589" width="600" frameborder="0" scrolling="no" ></iframe>`
+
+
+
+<!--EndFragment-->
