@@ -158,8 +158,7 @@ Total Score 180/300.\
 
 
 <!--StartFragment-->
-
-`<iframe src="https://assets.pinterest.com/ext/embed.html?id=625859679461113193" height="589" width="600" frameborder="0" scrolling="no" ></iframe>`
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=625859679461113193" height="589" width="600" frameborder="0" scrolling="no" ></iframe>
 
 
 
