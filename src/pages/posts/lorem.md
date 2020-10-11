@@ -49,10 +49,10 @@ The service initially offered only medical certificates but quickly realized tha
 | https://www.qoctor.com.au/premature-ejaculation/                                                                                                                                           | [buy dapoxetine](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml)                           |
 | https://www.qoctor.com.au/chlamydia-treatment/                                                                                                                                             | [buy chlamydia treatment online australia](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml) |
 
-**Top Pages Qoctor Services**\
+**Top Pages Qoctor Services**
 
 <figure class="video_container">
-<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="80%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4iqbiM6xRAbnC9wzq60_dmKJBI3eDwpbG7PB1Z0WAdFGtiqHV8Y6uOHkOR5DkMlTbjLebhcjSCtSJ/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
 > ###### Pros and cons
