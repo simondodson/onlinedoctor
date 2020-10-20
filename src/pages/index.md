@@ -6,6 +6,7 @@ menus:
   main:
     title: Home
     weight: 0
+    identifier: " Online Doctor Review "
 template: home
 ---
 Whether you’re on a check up or for a specialist Online Doctor, or a medical certificate.
@@ -34,6 +35,7 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 | [](https://bestonlinedoctors.com.au/posts/clickifsick/)[](https://bestonlinedoctors.com.au/posts/clickifsick/)**Your Doctors Online - Online Doctor   Australia Reviews** | [yourdoctors.online/](https://bestonlinedoctors.com.au/posts/your-doctors-online/) |
 | [](https://bestonlinedoctors.com.au/posts/your-doctors-online/)-----------------------------------------------------------------                                          | \-----------------------                                                           |
 
+\
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
 
 \
