@@ -43,7 +43,15 @@ Unlike many online services, the service recommends that a patient’s doctor be
 •	Patients in rural Australia have a larger advantage in the pricing costs because they receive more affordable prices. 
 
 **Cons**\
-•	The services might appear costly for economically disadvantaged individuals.  •	There is a risk of data loss or theft if a patient does not know how to upload or download files or reports securely via their email links. \
+•	The services might appear costly for economically disadvantaged individuals. 
+
+\
 \
 **Simple The Best Online Doctor** - [docto.com.au](https://www.docto.com.au/)\
- Score  Ease of use: 100/100  Convenience factor: 100/100 Technology: 100/100
+ Score  Ease of use: 100/100\
+ Convenience factor: 100/100\
+ Technology: 100/100
+
+
+
+![perfect reviews](/images/2934f66cb1d6aca702a70d0628340d14.png "https://www.trustpilot.com/review/docto.com.au")
