@@ -1,7 +1,7 @@
 ---
 title: Qoctor
 home_style: style2
-home_img: /images/60f25544b3e0e08c9c8e5b16b795d23b-1-.gif
+home_img: /images/qoctor2.webp
 excerpt: >-
   <!--StartFragment-->
 
@@ -15,6 +15,9 @@ excerpt: >-
   <!--EndFragment-->
 date: 2019-03-21T00:00:00.000Z
 img_src: /images/60f25544b3e0e08c9c8e5b16b795d23b-1-.gif
+menus:
+  main:
+    identifier: Qoctor
 template: page
 ---
 **Qoctor** is an online service that enables you to get the prescriptions that you regularly use without needing to book a doctor’s appointment. The service also provides medical certificates with just a few clicks and a Skype chat, and ensures that all your ordered prescription medication is delivered to your doorstep. 
@@ -27,11 +30,11 @@ The service initially offered only medical certificates but quickly realized tha
 \
 The doctor will hereafter ask you a series of questions to check if the medication is appropriate for you, then the prescription is sent to you via Australia post. The cost of a paper prescription is $19.99 for the doctor’s fee including Registered Post delivery services, but Express Post costs an additional $4.99. The same charges also apply to delivery of medication. \
 \
-In The Press: <!--StartFragment-->
+**In The Press:** <!--StartFragment-->
 
 ## How does Qoctor work?
 
-*Qoctor CEO Aifric Boylan told Mamamia publication them regarding What is Qoctor, Who is Qoctor, had the following to say:* 
+*Qoctor CEO Aifric Boylan told Mamamia publication answering, What is Qocto?, Who is Qocto?r, had the following to say:* 
 
 > “We started off with medical certificates, but we quickly realised that there’s a whole range of simple medical issues that patients are often required to see the doctor for, when often they don’t need a face-to-face consultation,” Dr Boylan says.
 >
@@ -39,7 +42,7 @@ In The Press: <!--StartFragment-->
 
 <!--EndFragment-->\
 \
-Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health. \
+**Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health.** \
 \
 **Qoctor Word Cloud** 
 
