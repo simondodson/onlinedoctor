@@ -1,10 +1,19 @@
 ---
 title: Qoctor
 home_style: style2
-home_img: /images/screenshot-35-.png
-excerpt: Qoctor is an online service that enables you to get the prescriptions
-  that you regularly use without needing to book a doctor’s appointment.
-date: 2017-04-25T00:00:00.000Z
+home_img: /images/60f25544b3e0e08c9c8e5b16b795d23b-1-.gif
+excerpt: >-
+  <!--StartFragment-->
+
+
+  What is Qoctor?
+
+
+  What is **Qoctor** all about? **Qoctor** offers a new format of online healthcare in Australia – one that's designed to suit the patient. It's simple, affordable and provided by registered Australian doctors and pharmacies. And because it's online, it's accessible wherever you happen to be.
+
+
+  <!--EndFragment-->
+date: 2019-03-21T00:00:00.000Z
 img_src: /images/60f25544b3e0e08c9c8e5b16b795d23b-1-.gif
 template: page
 ---
@@ -14,25 +23,37 @@ template: page
 
 The service initially offered only medical certificates but quickly realized that it could also deal with basic medical issues that patients are expected to see a doctor for even if they do not require a face to face consultation. These basic medical issues include embarrassing ones such as sexually transmitted diseases, erectile dysfunction, or having a case of head lice. 
 
->  To obtain a medical certificate, you will be asked a few questions before you can book some chat time on Skype with a doctor, who will confirm that you are sick but do not require further medical intervention. The medical certificate will cost you $19.99, while referrals to other specialists also cost $19.99. A request for a prescription involves the doctor offering you information about the condition you are suffering from and then giving you options on the medication that you would like to purchase or get a subscription for. \
-> \
-> The doctor will hereafter ask you a series of questions to check if the medication is appropriate for you, then the prescription is sent to you via Australia post. The cost of a paper prescription is $19.99 for the doctor’s fee including Registered Post delivery services, but Express Post costs an additional $4.99. The same charges also apply to delivery of medication. \
-> \
-> Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health. \
-> \
-> Qoctor Word Cloud/
+ To obtain a medical certificate, you will be asked a few questions before you can book some chat time on Skype with a doctor, who will confirm that you are sick but do not require further medical intervention. The medical certificate will cost you $19.99, while referrals to other specialists also cost $19.99. A request for a prescription involves the doctor offering you information about the condition you are suffering from and then giving you options on the medication that you would like to purchase or get a subscription for. \
+\
+The doctor will hereafter ask you a series of questions to check if the medication is appropriate for you, then the prescription is sent to you via Australia post. The cost of a paper prescription is $19.99 for the doctor’s fee including Registered Post delivery services, but Express Post costs an additional $4.99. The same charges also apply to delivery of medication. \
+\
+In The Press: <!--StartFragment-->
+
+## How does Qoctor work?
+
+*Qoctor CEO Aifric Boylan told Mamamia publication them regarding What is Qoctor, Who is Qoctor, had the following to say:* 
+
+> “We started off with medical certificates, but we quickly realised that there’s a whole range of simple medical issues that patients are often required to see the doctor for, when often they don’t need a face-to-face consultation,” Dr Boylan says.
 >
-> <a href="https://gyazo.com/788da745c563f854dbdf22313bf11d67"><video alt="Video from Gyazo" width="820" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/788da745c563f854dbdf22313bf11d67.mp4" type="video/mp4" /></video></a>
->
-> [dataset ahref best pages ](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)
->
-> [](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)**This online service is unlike others in the market because it expects you to make the decisions about your treatment instead of the doctor performing a diagnosis and making an appropriate decision. In as much as it offers patient flexibility and choice, this makes it a tricky service because it may be misused to obtain medication  not unsuitable for the user regarding their circumstance. Furthermore, the service is different because it initially uses a questionnaire to ask medical questions and only sets up a Skype video consultation with a doctor when necessary.** 
->
-> ![https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV](/images/download-8-.png "https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV")
->
-> ## <https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV>
->
-> ###### [](https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV)This means that you do not have direct and quick access to a doctor at all times the way other online services operate. Even though the questionnaire enables you to provide pertinent information as you desire, a physical or virtual doctor would nevertheless have the ability to ask the right questions that can generate a clearer diagnosis.
+> “Some of the health issues are ones that sometimes might be a bit embarrassing for people. They’re also services that have people traditionally taking time out of a busy day when they’re not actually unwell. So things like their contraception or their hayfever medication.”
+
+<!--EndFragment-->\
+\
+Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health. \
+\
+**Qoctor Word Cloud** 
+
+<a href="https://gyazo.com/788da745c563f854dbdf22313bf11d67"><video alt="Video from Gyazo" width="820" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/788da745c563f854dbdf22313bf11d67.mp4" type="video/mp4" /></video></a>
+
+[dataset ahref best pages ](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)
+
+[](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3IneDPgz6EOhodAHO8JEnAzUjrhO6rrJUI4pNeUvWfPnrQD5rSKGMbQ6nBvSDDQ-cTzK-L7wcjGpY/pubhtml)**This online service is unlike others in the market because it expects you to make the decisions about your treatment instead of the doctor performing a diagnosis and making an appropriate decision. In as much as it offers patient flexibility and choice, this makes it a tricky service because it may be misused to obtain medication  not unsuitable for the user regarding their circumstance. Furthermore, the service is different because it initially uses a questionnaire to ask medical questions and only sets up a Skype video consultation with a doctor when necessary.** 
+
+![https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV](/images/download-8-.png "https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV")
+
+## <https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV>
+
+###### [](https://gtmetrix.com/reports/www.qoctor.com.au/nDqasrV)This means that you do not have direct and quick access to a doctor at all times the way other online services operate. Even though the questionnaire enables you to provide pertinent information as you desire, a physical or virtual doctor would nevertheless have the ability to ask the right questions that can generate a clearer diagnosis.
 
 **Top Pages Qoctor Service**
 
@@ -133,15 +154,16 @@ The service initially offered only medical certificates but quickly realized tha
 | yourdiscountchemist.com.au | http://yourdiscountchemist.com.au |
 | propeciaaustralia.net      | http://propeciaaustralia.net      |
 
-\
-\
-Scores  Ease of use: 70/100 \
+### \
+Scores Ease of use: 70/100 
 
-Convenience factor: 90/100\
+### Convenience factor: 90/100
 
-Technology: 20/100\
+### Technology: 20/100\
 \
 Total Score 180/300.\
+\
+\
 \
 **In The Press** 
 
@@ -153,4 +175,19 @@ Total Score 180/300.\
 
 *“A well trained doctor recognises a patient that requires a physical exam. It’s about us making sure that the information we get from the patient is comprehensive. As doctors there is always concern about risk \[of misdiagnosis], we deal with it every day. Practising online medicine poses different challenges, but taking good patient history is at the core of good medicine."*
 
-*Dr Boylan said Qoctor’s mission was to work with the Australian Medical Association and GPs to provide an online hub for patients “to get the same treatment that they would inside a clinic”. - [source ](https://www.bodyandsoul.com.au/health/health-news/calling-in-sick-and-getting-away-with-it-now-costs-only-20/news-story/782580284e1dce5d3a6ffb4a403ec21b)*
+*Dr Boylan said Qoctor’s mission was to work with the Australian Medical Association and GPs to provide an online hub for patients “to get the same treatment that they would inside a clinic”. - [source ](https://www.bodyandsoul.com.au/health/health-news/calling-in-sick-and-getting-away-with-it-now-costs-only-20/news-story/782580284e1dce5d3a6ffb4a403ec21b)*\
+\
+TAGS: <!--StartFragment-->
+
+* \#ama
+* \#australian-medical-association
+* \#doctor
+* \#medical-2
+* \#medical-services
+* \#mm-mobile-today
+* \#online-doctor
+* \#perscription
+* \#qoctor
+* \#quick-online-doctor
+
+<!--EndFragment-->
