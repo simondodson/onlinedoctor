@@ -34,13 +34,14 @@ The doctor will hereafter ask you a series of questions to check if the medicati
 
 ## How does Qoctor work?
 
-*Qoctor CEO Aifric Boylan told Mamamia publication answering, What is Qocto?, Who is Qocto?r, had the following to say:* 
+*Qoctor CEO Aifric Boylan told Mamamia publication answering, What is Qoctor?, Who is Qoctor?, had the following to say:* 
 
 > “We started off with medical certificates, but we quickly realised that there’s a whole range of simple medical issues that patients are often required to see the doctor for, when often they don’t need a face-to-face consultation,” Dr Boylan says.
 >
 > “Some of the health issues are ones that sometimes might be a bit embarrassing for people. They’re also services that have people traditionally taking time out of a busy day when they’re not actually unwell. So things like their contraception or their hayfever medication.”
 
 <!--EndFragment-->\
+
 \
 **Ultimately the service expects you to answer questions and to choose your medication correctly, and this requires that you trust yourself to take care of your own health.** \
 \
@@ -158,11 +159,13 @@ The doctor will hereafter ask you a series of questions to check if the medicati
 | propeciaaustralia.net      | http://propeciaaustralia.net      |
 
 ### \
+
 Scores Ease of use: 70/100 
 
 ### Convenience factor: 90/100
 
 ### Technology: 20/100\
+
 \
 Total Score 180/300.\
 \
