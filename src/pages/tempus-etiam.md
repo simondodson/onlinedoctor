@@ -22,6 +22,110 @@ Working  in the same market as  **TerryWhite Chemmart** which is one of Australi
 
 ![online 247 pharmacy](/images/pharmacy-vector-32.png "online 247 pharmacy")
 
+## *Australian Telehealth Directory* 
+
+| Australian Telehealth Directory online doctor |
+| --------------------------------------------- |
+| www.hotdoc.com.au/                            |
+| www.cliniko.com/                              |
+| gp2u.com.au/                                  |
+| www.doctor360.com.au/                         |
+| <https://healthreporter.com.au/>              |
+| <http://bestonlinedoctors.com.au/>            |
+| www.qoctor.com.au/                            |
+| www.doctorsondemand.com.au/                   |
+| www.instantconsult.com.au/                    |
+| www.oneviewhealthcare.com/                    |
+| www.tytocare.com/                             |
+| www.getmosh.com.au/                           |
+| pilot.com.au/                                 |
+| www.telemedicineclinic.com/                   |
+| www.primemedic.com.au/                        |
+| www.myemergencydr.com/                        |
+| www.docto.com.au/                             |
+| kinfertility.com.au/                          |
+| www.xr.health/                                |
+| www.instantscripts.com.au/                    |
+| emojipedia.org/emoji/%F0%9F%93%A7/            |
+| www.healthsite.com.au/                        |
+| www.coviu.com/                                |
+| teledermatologist.com.au/                     |
+| www.swiftdoc.com/                             |
+| medinet.com.au/                               |
+| www.doctoroo.com.au/                          |
+| www.talkinghealthtech.com/                    |
+| psych2u.com.au/                               |
+| www.online.physio/                            |
+| mediushealth.org/                             |
+| wellfemme.com.au/                             |
+| healthnow.io/                                 |
+| welysn.com/                                   |
+| teladochealth.com/en-AU/                      |
+| www.gpnow.net/                                |
+| www.novarihealth.com/evisit-telemedicine/     |
+| dokotela.com.au/                              |
+| emojipedia.org/emoji/%E2%9C%8D/               |
+| www.voiceofhealth.com.au/                     |
+| hellovide.com.au/                             |
+| phenixhealth.com.au/                          |
+| www.healthbank.io/                            |
+| stigmahealth.com/                             |
+| www.attendanywhere.com/                       |
+| connect.oculo.com.au/                         |
+| virtualpsychologist.com.au/                   |
+| sicky.com.au/                                 |
+| epsychiatry.com.au/                           |
+| telepsychiatrist.online/                      |
+| welio.com/                                    |
+| mymirror.com.au/                              |
+| telecareonline.com.au/                        |
+| www.umbo.com.au/                              |
+| www.hothealth.com/                            |
+| doctorai.com.au/                              |
+| onlineprostate.physio/                        |
+| www.valdhealth.com/telehab                    |
+| www.ruralhealthconnect.com.au/                |
+| www.urban-doc.com/                            |
+| www.chology.co/                               |
+| www.rosemaryhealth.com.au/                    |
+| skin.software/                                |
+| digihealthinnovations.com/#caregrid           |
+| www.kidsdoconcall.com.au/                     |
+| someone.health/                               |
+| medicrelief.com/                              |
+| www.mentallyhealthy.com.au/                   |
+| askcaia.com/                                  |
+| www.myhealthmate.com.au/                      |
+| www.sisuhealthgroup.com/                      |
+| www.specialistbooking.com/                    |
+| feelchipper.com/                              |
+| weko.health/                                  |
+| ereports.com.au/service/nexus/                |
+| au.betterconsult.com/                         |
+| www.gpconsults.com.au/                        |
+| www.ournutsandbolts.com/                      |
+| www.telehealth2u.com.au/                      |
+| www.futuredentistry.com.au/                   |
+| www.mindhighclub.com.au/                      |
+| au.linkedin.com/company/doctology             |
+| www.telehealth.com.au/                        |
+| stethy.co/                                    |
+| collabcare.com/teleconsult/                   |
+| doctology.substack.com/welcome                |
+| www.emindally.com/                            |
+| www.egalhealth.com/                           |
+| www.facebook.com/doctology                    |
+| polln.com/                                    |
+| nowopenly.com/                                |
+| mantlehealth.com.au/                          |
+| www.instagram.com/doctologyau                 |
+| www.nationaltelemedicinedoctors.com/          |
+|                                               |
+|                                               |
+|                                               |
+|                                               |
+|                                               |
+
 And alongside in the same **Market Place At Star Discount Chemist**, our customers come first. That’s why we have worked hard to bring to you not only a great range of your most trusted products at discount prices, but also superior service and great advice from our extensively trained staff and qualified pharmacists.
 
 We are committed to providing the community with a one stop shop where our customers can not only find a bargain, but also find health care solutions from our staff who genuinely care about our customer’s well being. 
