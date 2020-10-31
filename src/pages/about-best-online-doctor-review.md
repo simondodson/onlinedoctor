@@ -22,4 +22,6 @@ The mission of [Best Online Doctor Review](https://bestonlinedoctors.com.au/) is
 
 We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible.
 
-We take your tele-health very seriously – so every review is as thorough as we can make it.  If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!
+We take your tele-health very seriously – so every review is as thorough as we can make it.  If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!\
+\
+<iframe width="95%" height="900px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIJk32kqdo2OQaS49y1XnBMW0GVdXTvJpPbt8DmJ1YDl08Uotkt7lu704utwjr7HGk1BmvTtz_N5p/pubhtml?widget=true&amp;headers=false"></iframe>
