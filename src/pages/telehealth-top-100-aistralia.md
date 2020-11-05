@@ -17,6 +17,16 @@ template: page
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIJk32kqdo2OQaS49y1XnBMW0GVdXTvJpPbt8DmJ1YDl08Uotkt7lu704utwjr7HGk1BmvTtz_N5p/pubhtml?widget=true&amp;headers=false" width="80%" height="1100px"></iframe>\
 \
 
+
+
+<!--StartFragment-->
+
+# What Is Telehealth in Australia?
+
+TELEHEALTH AUSTRALIA DEALS WITH MEDICAL CARE DOCTOR SHORTAGES/SPECIALIST DEFICIENCY: TELEHEALTH AUSTRALIA IS PERMITTING PEOPLE AT SMALLER SIZED, LESS-RESOURCED HEALTHCARE FACILITIES TO ACCESS TO PROFESSIONALS BASED AT BIGGER LOCAL CENTERS.
+
+<!--EndFragment-->
+
 ![https://healthreporter.com.au/5-ways-online-doctors-can-help/](/images/download-19-.png "https://healthreporter.com.au/5-ways-online-doctors-can-help/")
 
 
