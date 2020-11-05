@@ -1,5 +1,5 @@
 ---
-title: How can I start PREP HIV MEDICATATION?
+title: How can I start PREP HIV MEDICATION ?
 img_src: /images/2eb9bcd5f7d21c997b71ddeb4bee89b8_small.jpg
 menus:
   main:
