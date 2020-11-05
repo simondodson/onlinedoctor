@@ -1,22 +1,12 @@
 ---
-title: Telehealth Top 100 Aistralia
+title: Telehealth Top 100 Australia
 template: page
 ---
-- - -
-
-title: Telehealth Top 100 Australia
-menus:
-  main:
-    title: Australian Telehealth Top 100
-template: page
-
-- - -
-
 <!--StartFragment-->
 
 # [Telehealth 100 list](https://healthreporter.com.au/australian-telehealth-top-100/) Supported by healthreporter.com.au
 
-<a href="https://gyazo.com/0d60ba9878955762b95061397d363c2b"><video alt="Video from Gyazo" width="90%" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/0d60ba9878955762b95061397d363c2b.mp4" type="video/mp4" /></video></a>
+<a href="https://healthreporter.com.au/australian-telehealth-top-100/"><video alt="Video from Gyazo" width="90%" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/0d60ba9878955762b95061397d363c2b.mp4" type="video/mp4" /></video></a>
 
 ![](/images/download-18-.png)
 
