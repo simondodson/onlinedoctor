@@ -18,7 +18,7 @@ TELEHEALTH AUSTRALIA DEALS WITH MEDICAL CARE DOCTOR SHORTAGES/SPECIALIST DEFICIE
 
 <!--EndFragment-->
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIJk32kqdo2OQaS49y1XnBMW0GVdXTvJpPbt8DmJ1YDl08Uotkt7lu704utwjr7HGk1BmvTtz_N5p/pubhtml?widget=true&amp;headers=false" width="800px" height="90%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIJk32kqdo2OQaS49y1XnBMW0GVdXTvJpPbt8DmJ1YDl08Uotkt7lu704utwjr7HGk1BmvTtz_N5p/pubhtml?widget=true&amp;headers=false" width="90%" height="900px"></iframe>
 
 TOP PAID MEDICAL SPECIALIST SALARY 2020
 
