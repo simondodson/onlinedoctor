@@ -5,7 +5,7 @@ home_img: /images/screenshot-80-1-min.png
 excerpt: Your Doctors Online provides access to quality healthcare services
   through their mobile app only .
 date: 2020-06-07T18:32:58.748Z
-img_src: /images/screenshot-80-.png
+img_src: /images/screenshot-80-1-min.png
 template: page
 ---
 Your Doctors Online provides access to quality healthcare services through their mobile app only . they eliminate the barriers that keep many people from accessing healthcare such as taking time off work, high medical costs and exposure to unwanted germs. 
