@@ -17,7 +17,7 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 
 ### The mission of **Best Online Doctor Review** is  we want to help you discover the best, research, and select the online doctor site and health  products that meets your needs, desires, and budget.
 
-![Best Online Doctor Review](/images/untitled-2.png "Best Online Doctor Review")
+![Best Online Doctor Review |800,400,|30%](/images/21f3259db1c8f6c3a0-1-.png "Best Online Doctor Review")
 
 \
 **Top 10 Best Online Doctors rated by engagement - NOVEMBER 2020**
@@ -36,11 +36,13 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 | [](https://bestonlinedoctors.com.au/posts/your-doctors-online/)-----------------------------------------------------------------                                          | \-----------------------                                                           |
 
 \
-We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  \
-\
+We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
+
+
+
 <!--StartFragment-->
 
-# [Telehealth Top 100 Australia 2020](https://bestonlinedoctors.com.au/telehealth-top-100-aistralia/)
+# [Telehealth Online Doctors Top 100 Australia 2020](https://bestonlinedoctors.com.au/telehealth-top-100-aistralia/)
 
 <!--EndFragment-->
 
