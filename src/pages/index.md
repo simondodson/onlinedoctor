@@ -20,12 +20,12 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 ![Best Online Doctor Review](/images/untitled-2.png "Best Online Doctor Review")
 
 \
-**Top 10 Best Online Doctors rated by engagement** - **September 2020**
+**Top 10 Best Online Doctors rated by engagement - NOVEMBER 2020**
 
-| [](<https://bestonlinedoctors.com.au/ >)                                                                                                                                  |                                                                                    |
+| **Docto.com.au - Best Online Doctor - Australia Reviews**                                                                                                                 | [docto.com.au/](https://bestonlinedoctors.com.au/posts/dolor/)                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [](<https://bestonlinedoctors.com.au/ >)**Simple Online Doctor - Online Doctor**                                                                                          | [simpleonlinedoctor.com.au/](https://bestonlinedoctors.com.au/posts/simpledoctor/) |
-| [](https://bestonlinedoctors.com.au/posts/simpledoctor/)[](https://bestonlinedoctors.com.au/posts/simpledoctor/)**Tele-health Reporter**                                  | [healthreporter.com.au/](https://healthreporter.com.au/)                           |
+| [](https://bestonlinedoctors.com.au/posts/simpledoctor/)[](https://bestonlinedoctors.com.au/posts/simpledoctor/)**Tele-health Reporter News**                             | [healthreporter.com.au/](https://healthreporter.com.au/)                           |
 | [](https://healthreporter.com.au/)[](https://bestonlinedoctors.com.au/tempus-etiam/)**Qoctor - Online Doctor Australia Reviews**                                          | [qoctor.com.au/](https://bestonlinedoctors.com.au/posts/lorem/)                    |
 | [](https://bestonlinedoctors.com.au/posts/lorem/)[](https://bestonlinedoctors.com.au/posts/lorem/)**Docto.com.au - Best Online Doctor - Australia Reviews**               | [docto.com.au/](https://bestonlinedoctors.com.au/posts/dolor/)                     |
 | [](https://bestonlinedoctors.com.au/posts/dolor/)[](https://bestonlinedoctors.com.au/posts/lorem/)**13 DOCTOR - Online Doctor Australia   Reviews**                       | [13-doctor.com.au/](https://bestonlinedoctors.com.au/posts/13-doctor/)             |
