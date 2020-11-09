@@ -1,7 +1,7 @@
 ---
 title: Your Doctors Online
 home_style: style1
-home_img: /images/screenshot-80-.png
+home_img: /images/screenshot-80-1-min.png
 excerpt: Your Doctors Online provides access to quality healthcare services
   through their mobile app only .
 date: 2020-06-07T18:32:58.748Z
