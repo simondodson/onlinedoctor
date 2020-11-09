@@ -1,7 +1,7 @@
 ---
 title: 13 DOCTOR
 home_style: style1
-home_img: /images/indhjgghjex.png
+home_img: /images/indhjgghjex-1-min.png
 excerpt: "**13 DOCTOR**  provides information on the **telehealth** services
   offered by the website. 13 DOCTOR is therefore an important website because it
   provides online medical care"
