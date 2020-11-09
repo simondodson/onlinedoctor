@@ -36,7 +36,15 @@ Hi! My name’s Simon and I’m the Doctors Editor around these parts.
 | [](https://bestonlinedoctors.com.au/posts/your-doctors-online/)-----------------------------------------------------------------                                          | \-----------------------                                                           |
 
 \
-We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  
+We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. We take your **tele-health** very seriously – so every review is as thorough as we can make it.  \
+\
+<!--StartFragment-->
+
+# [Telehealth Top 100 Australia 2020](https://bestonlinedoctors.com.au/telehealth-top-100-aistralia/)
+
+<!--EndFragment-->
+
+![Telehealth Top 100 Australia 2020](/images/ribbon_red01_c_05-1-.png "Telehealth Top 100 Australia 2020")
 
 \
 If you ever want more information on a product, please leave a comment and we will definitely get back to you with our thoughts!
