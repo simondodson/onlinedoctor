@@ -1,5 +1,10 @@
 ---
 title: 24-Hour Chemist - The 2021 Guide
+menus:
+  main:
+    title: 24-Hour Chemist - The 2021 Guide
+    identifier: 24-Hour Chemist - The 2021 Guide
+    weight: 1
 template: page
 ---
 Even though doctors offer emergency home treatment services, users sometimes need access to a pharmacy late in the night in order to replenish their medical supplies and prescriptions. However, in order to be prepared for such emergencies, people need be informed about the location of pharmacies that offer such late-night services so that they do not panic when they actually need one. 
