@@ -7,6 +7,8 @@ menus:
     weight: 1
 template: page
 ---
+<meta name="description" content="The quick brown fox jumped over the lazy dog.">
+<meta name="author" content="John Smith">
 Even though doctors offer emergency home treatment services, users sometimes need access to a pharmacy late in the night in order to replenish their medical supplies and prescriptions. However, in order to be prepared for such emergencies, people need be informed about the location of pharmacies that offer such late-night services so that they do not panic when they actually need one. 
 
 There are various 24-hour chemists across Australia, and individuals can easily locate the ones that are in their area by doing a search on the internet. 
